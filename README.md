@@ -29,5 +29,6 @@ And they shouldn't. 😏🦷
 🚀 Self-Taught Practitioner: Everything I can do (except dentistry 😄), I learned on my own.
 ⚡ Automation Enthusiast: If a process repeats twice, I'm already writing a script.
 🤝 Open to Collaboration: Freelance, pet projects, mentorship, weird ideas — welcome!
+[![📄 Resume](https://img.shields.io/badge/📄_Download_Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/daronkicker-ai/resume)
 "The best code is the kind that solves the problem, not complicates life. Just like in dentistry: precision, cleanliness, results."
 
