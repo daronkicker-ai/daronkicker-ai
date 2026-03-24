@@ -30,6 +30,7 @@ And they shouldn't. 😏🦷
 ⚡ Automation Enthusiast: If a process repeats twice, I'm already writing a script.
 🤝 Open to Collaboration: Freelance, pet projects, mentorship, weird ideas — welcome!
 "The best code is the kind that solves the problem, not complicates life. Just like in dentistry: precision, cleanliness, results."
+
 <p align="center">
   <img src="https://img.shields.io/badge/🦷_ex__dentist-Code_Enthusiast-blue?style=for-the-badge">
   <img src="https://img.shields.io/badge/🔧_Self__Taught-🚀_Learning_Daily-orange?style=for-the-badge">
